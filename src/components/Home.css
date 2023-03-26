@@ -1,0 +1,39 @@
+.carru{
+
+    height: 64rem ;
+
+}
+.hache-cinco{
+    color: white;
+}
+.pe{
+    color: white;
+}
+.htitle{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.about{
+    width: 100% ;
+    height: 100% ;
+    border-radius: 10px;
+     
+}
+.peAbout{
+    padding-top: 5rem;
+    text-align:center;
+}
+.peAbout li{
+    list-style: none;
+    text-align: left;
+    padding-top: 10px;
+    
+    
+}
+.tnail{
+
+    width: 12rem;
+    height: 12rem;
+}
+
